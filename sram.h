@@ -16,7 +16,7 @@
 
   NOTES: 
   - Written with 23AA04M in mind, which is a (max) 3.6V IC. I used Pin 36 on the Pico for 3.3V.
-  - This library likely works for a number of similar SRAM ICs, especially by those Microchip.
+  - This library likely works for a number of similar SRAM ICs, especially those by Microchip.
   
 
   NOT YET IMPLEMENTED:
